@@ -1,0 +1,35 @@
+.container{
+    width: 50%;
+    margin: auto;
+    border: 10px solid blue;
+    height: 520px;
+    background-color: lightblue;
+}
+h1{
+    color:red;
+}
+
+#search1,#search2,.res{
+    width: 99%;
+    height: 50px;
+    border: 5px solid black;
+    font-size: 40px;
+    color: green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+
+.operators{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+#plus,#minus,#mult,#div{
+    height: 50px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+}
