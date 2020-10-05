@@ -14,9 +14,11 @@ body{
 h1{
     /* position:absolute; */
     color:red;
+    display: flex;
+    justify-content: center;
     /* margin: auto; */
-    margin-left: 30%;
-    font-size: 40px;
+    /* margin-left: 30%; */
+    font-size: 150%;
     text-shadow: 4px 3px 3px rgb(24, 2, 2);
 }
 
@@ -88,9 +90,11 @@ h1{
     h1{
         /* position:absolute; */
         color:red;
+        display: flex;
+        justify-content: center;
         /* margin: auto; */
-        margin-left: 10%;
-        font-size: 40px;
+        /* margin-left: 10%; */
+        font-size: 150%;
         text-shadow: 4px 3px 3px rgb(24, 2, 2);
     }
     
